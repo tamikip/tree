@@ -1,0 +1,7 @@
+{
+  "name": "Gesture Christmas Tree",
+  "description": "A cinematic 3D Christmas experience controlled by hand gestures. Upload photos and use your hands to scatter, gather, and explore the festive cloud.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
